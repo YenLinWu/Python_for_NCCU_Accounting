@@ -13,7 +13,8 @@
 | 授課日期 | 課程內容 | 趣味實作 |
 |-------|------|-------|
 |2021/05/26|[NumPy and Pandas](https://colab.research.google.com/github/YenLinWu/Python_for_NCCU_Accounting/blob/main/20210526/NumPy_and_Pandas.ipynb)|[Drawing with Circles in Python](https://colab.research.google.com/github/YenLinWu/Python_for_NCCU_Accounting/blob/main/20210526/Drawing_with_Circles_in_Python.ipynb)|
-|2021/06/02|[Applications of Pandas]()|[Neural Style Transfer in Python]()|
+|2021/06/02|[Applications of Pandas]()|[Neural Style Transfer in Python](https://colab.research.google.com/github/YenLinWu/Python_for_NCCU_Accounting/blob/main/20210602/Neural_Style_Transfer_in_Python.ipynb)|
+|2021/06/09|[Matplotlib]()||
 
 ### 參考資源
 > 程式語法    
