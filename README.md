@@ -1,7 +1,7 @@
 ## NCCU Accounting - Fundamentals of Business Data Analytics : Python(I)
 國立政治大學會計系 商業資料分析基礎 : Python(I)
 
-### 講師 : 吳彥霖([GitHub](https://github.com/YenLinWu))
+### 講師 : 吳彥霖([Contact Me]( mailto:yenlinwu1112@gmail.com ))
 
 ### 課程說明  
 - 編碼環境 : [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb?hl=zh-tw)   
