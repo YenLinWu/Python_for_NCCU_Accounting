@@ -9,6 +9,7 @@
 - 套件版本 : Python 3.7.10    
 &emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NumPy 1.19.5   
 &emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pandas 1.1.5
+&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Matplotlib 3.2.2
 
 ### 課程大綱
 | 授課日期 | 課程內容 | 趣味實作 |
