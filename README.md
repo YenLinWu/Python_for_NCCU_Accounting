@@ -1,5 +1,5 @@
-## NCCU Accounting - Fundamentals of Business Data Analytics : Python(I)
-國立政治大學會計系 商業資料分析基礎 : Python(I)
+## NCCU Accounting - Applications of Business Data Analytics : NumPy and Pandas
+國立政治大學會計系 商業資料分析應用：NumPy 與 Pandas
 
 ### 講師 : 吳彥霖  
 &emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Contact Me : [yenlinwu1112@gmail.com]( mailto:yenlinwu1112@gmail.com )
