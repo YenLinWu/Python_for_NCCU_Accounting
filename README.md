@@ -29,4 +29,8 @@
 > 趣味實作    
    
 [5] [Circle Evolution](https://github.com/ahmedkhalf/Circle-Evolution 'Source Code'), Ahmed Khalf   
-[6] [Neural Style Transfer](https://www.tensorflow.org/tutorials/generative/style_transfer 'TensorFlow Tutorials')
+[6] [Neural Style Transfer](https://www.tensorflow.org/tutorials/generative/style_transfer 'TensorFlow Tutorials') 
+
+> 其他    
+  
+[7] [How to Connect Google Colab with Google Drive](https://www.marktechpost.com/2019/06/07/how-to-connect-google-colab-with-google-drive/), Md kaish Ansari, June 7, 2019.
